@@ -23,7 +23,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
 
 ## My GitHub Stats
-![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=radical)
+![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5)
 
 ## My GitHub Contributions
