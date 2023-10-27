@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - **Tools:** VS Code, Git, GitHub
 - **Databases:** MySQL, MongoDB
 
+## Languages used :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5)
+
 ## GitHub Stats
 ![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=radical)
 
