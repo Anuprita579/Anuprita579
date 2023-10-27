@@ -24,7 +24,7 @@
 
 ## My GitHub Stats
 ![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5&layout=compact)
 
 ## My GitHub Contributions
 ![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579)
