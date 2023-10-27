@@ -13,7 +13,6 @@
 🤝 Let's collaborate and innovate!
 
 ## Connect with me 
-🔗 [LinkedIn](https://www.linkedin.com/in/anupritamhapankar) | [GitHub](https://github.com/Anuprita579)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupritamhapankar)
 
 ## Technical Skills
