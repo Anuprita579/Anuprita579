@@ -30,7 +30,8 @@
 ![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579)
 
 ## GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
