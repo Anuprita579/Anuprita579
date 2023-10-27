@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 # Anuprita Mhapankar
 
-🔗 [LinkedIn](https://www.linkedin.com/in/anupritamhapankar) | [GitHub](https://github.com/your-github-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/anupritamhapankar) | [GitHub](https://github.com/Anuprita579)
 
 ## GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Technical Skills
 - **Programming Languages:** C, C++, Java, HTML, CSS, JavaScript, MySQL
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 - **Databases:** MySQL, MongoDB
 
 ## GitHub Stats
-![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
+![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=radical)
 
 ## GitHub Contributions
-![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
+![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579)
 
 
 Feel free to explore my projects and contributions on GitHub!
