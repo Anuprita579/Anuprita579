@@ -8,8 +8,6 @@
 
 💻 Frontend developer, problem solver.
 
-⭐ 4-star C coder on HackerRank.
-
 🌟 Passionate about software development.
 
 🤝 Let's collaborate and innovate!
