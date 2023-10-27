@@ -13,7 +13,7 @@
 🤝 Let's collaborate and innovate!
 
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupritamhapankar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuprita-mhapankar/)
 
 ## Technical Skills
 - **Programming Languages:** C, C++, Java, HTML, CSS, JavaScript, MySQL
