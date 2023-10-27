@@ -17,9 +17,6 @@
 ## Connect with me 
 🔗 [LinkedIn](https://www.linkedin.com/in/anupritamhapankar) | [GitHub](https://github.com/Anuprita579)
 
-## GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Technical Skills
 - **Programming Languages:** C, C++, Java, HTML, CSS, JavaScript, MySQL
 - **Tools:** VS Code, Git, GitHub
@@ -32,6 +29,8 @@
 ## My GitHub Contributions
 ![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579)
 
+## GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Feel free to explore my projects and contributions on GitHub!
 
