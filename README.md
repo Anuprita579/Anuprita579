@@ -3,10 +3,15 @@
 ## About Me
 
 🚀 Tech enthusiast from Mumbai, India.
+
 👨‍🎓 2nd-year BE in Information Technology.
+
 💻 Frontend developer, problem solver.
+
 ⭐ 4-star C coder on HackerRank.
+
 🌟 Passionate about software development.
+
 🤝 Let's collaborate and innovate!
 
 ## Connect with me 
