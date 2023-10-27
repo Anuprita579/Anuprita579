@@ -32,7 +32,8 @@
 ## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Feel free to explore my projects and contributions on GitHub!
+## Views 
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
 
 
