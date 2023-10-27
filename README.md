@@ -1,21 +1,15 @@
-### Hi there 👋 
+### Hi 👋 I'm Anuprita Mhapankar
 
-<!--
-**Anuprita579/Anuprita579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🚀 Tech enthusiast from Mumbai, India.
+👨‍🎓 2nd-year BE in Information Technology.
+💻 Frontend developer, problem solver.
+⭐ 4-star C coder on HackerRank.
+🌟 Passionate about software development.
+🤝 Let's collaborate and innovate!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Anuprita Mhapankar
-
+## Connect with me 
 🔗 [LinkedIn](https://www.linkedin.com/in/anupritamhapankar) | [GitHub](https://github.com/Anuprita579)
 
 ## GitHub Profile Trophy
@@ -26,13 +20,11 @@ Here are some ideas to get you started:
 - **Tools:** VS Code, Git, GitHub
 - **Databases:** MySQL, MongoDB
 
-## Languages used :
+## My GitHub Stats
+![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5)
 
-## GitHub Stats
-![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=radical)
-
-## GitHub Contributions
+## My GitHub Contributions
 ![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579)
 
 
