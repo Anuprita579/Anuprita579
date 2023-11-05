@@ -34,10 +34,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
 
 ## My GitHub Contributions
-![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579)
+![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579&theme=transparent)
 
 ## GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&margin-w=15&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
