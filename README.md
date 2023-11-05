@@ -37,7 +37,8 @@
 ![Anuprita's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Anuprita579&theme=transparent)
 
 ## GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anuprita579&margin-w=15&theme=dark#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy-Dark](https://github-profile-trophy.vercel.app/?username=Anuprita579&margin-w=15&theme=dark#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy-Light](https://github-profile-trophy.vercel.app/?username=Anuprita579&margin-w=15&theme=default#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
