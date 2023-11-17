@@ -15,8 +15,6 @@
 ## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuprita-mhapankar/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuprita579&" alt="anuprita579" /></p>
-
 ## Tech Stack
 <!-- HTML-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"><!-- CSS-->
@@ -33,8 +31,9 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"><!-- Postman-->
 
 ## My GitHub Stats
-![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent)
+[![Anuprita's GitHub | Stats](https://stats.quine.sh/Anuprita579/github?theme=light)](https://quine.sh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
+<!-- ![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent) -->
 
 **NOTE:** ***Top Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
 
