@@ -15,6 +15,8 @@
 ## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuprita-mhapankar/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuprita579&label=Profile%20views&color=0e75b6&style=flat" alt="anuprita579" /> </p>
+
 ## Tech Stack
 <!-- HTML-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"><!-- CSS-->
