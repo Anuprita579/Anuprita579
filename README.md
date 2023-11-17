@@ -15,7 +15,7 @@
 ## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuprita-mhapankar/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuprita579&show_icons=true&locale=en" alt="anuprita579" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuprita579&" alt="anuprita579" /></p>
 
 ## Tech Stack
 <!-- HTML-->
