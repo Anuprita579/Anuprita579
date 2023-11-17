@@ -15,7 +15,7 @@
 ## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuprita-mhapankar/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuprita579&label=Profile%20views&color=0e75b6&style=flat" alt="anuprita579" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuprita579" alt="anuprita579" /></a> </p>
 
 ## Tech Stack
 <!-- HTML-->
