@@ -31,9 +31,10 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"><!-- Postman-->
 
 ## My GitHub Stats
-[![Anuprita's GitHub | Stats](https://stats.quine.sh/Anuprita579/github?theme=light)](https://quine.sh)
+![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuprita579&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
-<!-- ![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent) -->
+<!-- [![Anuprita's GitHub | Stats](https://stats.quine.sh/Anuprita579/github?theme=light)](https://quine.sh) -->
+ 
 
 **NOTE:** ***Top Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
 
