@@ -20,6 +20,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"><!-- CSS-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"><!-- Bootstrap-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"><!-- JavaScript-->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg" /><!-- jquery-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"><!-- Java-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"><!-- C-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"><!-- C++-->
@@ -32,6 +33,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"><!-- npm-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"><!-- Nodejs-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"><!-- Expressjs-->
+
 
 ## My GitHub Stats
 ![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent)
