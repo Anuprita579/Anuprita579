@@ -27,7 +27,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"><!-- Java-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"><!-- C-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"><!-- C++-->
- <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"><!-- Python-->
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"><!-- Python-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"><!-- MySQL-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"><!--oracle-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"><!-- Mongodb-->
@@ -44,7 +44,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"><!-- IntelliJ-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"><!--webpack-->
 <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35"> <!--vite-->
-<img height="50" src="https://user-images.githubusercontent.com/19409/135924939-03845d0b-e7bb-414b-89b6-e627dfa9f614.png" /><!-- parcel-->
+<img height="50" src="https://github.com/Anuprita579/Anuprita579/assets/141035951/3b26f7e1-a7a3-4cb9-9704-61233af71a30" /><!-- parcel-->
 
 ## My GitHub Stats
 ![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent)
