@@ -44,7 +44,6 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"><!-- IntelliJ-->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"><!--webpack-->
 <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35"> <!--vite-->
-<img height="50" src="https://github.com/Anuprita579/Anuprita579/assets/141035951/3b26f7e1-a7a3-4cb9-9704-61233af71a30" /><!-- parcel-->
 
 ## My GitHub Stats
 ![Anuprita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuprita579&show_icons=true&count_private=true&theme=transparent)
