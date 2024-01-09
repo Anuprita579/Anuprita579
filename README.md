@@ -1,5 +1,7 @@
 ### Hi 👋 I'm Anuprita Mhapankar
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Passionate+Frontend+Developer;Open+Source+Contributor)
+
 ## About Me
 
 🚀 Tech enthusiast from Mumbai, India.
