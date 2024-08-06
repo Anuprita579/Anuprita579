@@ -6,7 +6,7 @@
 
 🚀 Tech enthusiast from Mumbai, India.
 
-👨‍🎓 2nd-year BE in Information Technology.
+👨‍🎓 3rd-year BE in Information Technology.
 
 💻 Frontend developer, problem solver.
 
